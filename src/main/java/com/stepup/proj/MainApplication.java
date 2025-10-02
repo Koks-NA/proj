@@ -7,6 +7,7 @@ public class MainApplication {
         System.out.println("1001");
         System.out.println("222");
         System.out.println("333");
+        System.out.println("---");
     }
 
     public static void doSomething(String[] args) {
